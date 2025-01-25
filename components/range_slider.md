@@ -124,3 +124,7 @@ class CustomThumbShape extends RangeSliderThumbShape {
   }
 }
 ```
+
+### Image of the design
+![image](https://github.com/user-attachments/assets/c1d85c32-7879-469c-9b4c-2be6a3d1c634)
+
